@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Vue Photos',
   description: 'A minimal, opinionated photo gallery for Vue.js',
+  base: '/vue-photos/',
 
   themeConfig: {
     repo: 'ankit/vue-photos',
