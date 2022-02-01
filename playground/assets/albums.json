@@ -1,0 +1,59 @@
+[
+  {
+    "id": "dogs",
+    "title": "Dogs",
+    "photos": [
+      {
+        "src": "assets/dogs/1.png"
+      },
+      {
+        "src": "assets/dogs/2.jpeg"
+      },
+      {
+        "src": "assets/dogs/3.jpg"
+      },
+      {
+        "src": "assets/dogs/4.jpg"
+      },
+      {
+        "src": "assets/dogs/5.png"
+      }
+    ]
+  },
+  {
+    "id": "cats",
+    "title": "Cats",
+    "photos": [
+      {
+        "src": "assets/cats/1.jpg"
+      },
+      {
+        "src": "assets/cats/2.jpg"
+      },
+      {
+        "src": "assets/cats/3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "cities",
+    "title": "Cities",
+    "photos": [
+      {
+        "src": "assets/cities/1.jpg"
+      },
+      {
+        "src": "assets/cities/2.jpg"
+      },
+      {
+        "src": "assets/cities/3.jpg"
+      },
+      {
+        "src": "assets/cities/4.jpg"
+      },
+      {
+        "src": "assets/cities/5.jpg"
+      }
+    ]
+  }
+]

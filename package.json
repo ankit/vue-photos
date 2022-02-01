@@ -1,0 +1,36 @@
+{
+  "name": "vue-photos",
+  "version": "0.1.0-alpha.5",
+  "description": "Minimal display for photo albums in Vue.js",
+  "main": "dist/vue-photos.umd.js",
+  "module": "dist/vue-photos.es.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit/vue-photos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ankit/vue-photos/issues"
+  },
+  "homepage": "https://github.com/ankit/vue-photos#readme",
+  "author": "Ankit Ahuja",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite --config playground/vite.config.js",
+    "build": "vue-tsc --noEmit && vite build",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.1",
+    "chalk": "^5.0.0",
+    "focus-trap": "^6.7.2",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5",
+    "vite": "^2.7.13",
+    "vite-dts": "^1.0.4",
+    "vitepress": "^0.21.6",
+    "vue": "^3.2.27",
+    "vue-router": "^4.0.12",
+    "vue-tsc": "^0.29.8"
+  }
+}
