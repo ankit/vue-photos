@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.07e2f4eb.js";const m='{"title":"Albums Configuration","description":"","frontmatter":{},"headers":[],"relativePath":"guide/albums-config.md","lastUpdated":1643538699124}',o={},p=t("",3),e=[p];function c(u,r,l,i,k,d){return a(),s("div",null,e)}var g=n(o,[["render",c]]);export{m as __pageData,g as default};
