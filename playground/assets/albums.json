@@ -1,58 +1,85 @@
 [
   {
-    "id": "dogs",
-    "title": "Dogs",
-    "photos": [
-      {
-        "src": "assets/dogs/1.png"
-      },
-      {
-        "src": "assets/dogs/2.jpeg"
-      },
-      {
-        "src": "assets/dogs/3.jpg"
-      },
-      {
-        "src": "assets/dogs/4.jpg"
-      },
-      {
-        "src": "assets/dogs/5.png"
-      }
-    ]
-  },
-  {
-    "id": "cats",
-    "title": "Cats",
-    "photos": [
-      {
-        "src": "assets/cats/1.jpg"
-      },
-      {
-        "src": "assets/cats/2.jpg"
-      },
-      {
-        "src": "assets/cats/3.jpg"
-      }
-    ]
-  },
-  {
     "id": "cities",
     "title": "Cities",
     "photos": [
       {
-        "src": "assets/cities/1.jpg"
+        "src": "https://ik.imagekit.io/hwked/tokyo/tr:h-1200/1.jpg"
       },
       {
-        "src": "assets/cities/2.jpg"
+        "src": "https://ik.imagekit.io/hwked/tokyo/tr:h-1200/2.jpg"
       },
       {
-        "src": "assets/cities/3.jpg"
+        "src": "https://ik.imagekit.io/hwked/tokyo/tr:h-1200/3.jpg"
       },
       {
-        "src": "assets/cities/4.jpg"
+        "src": "https://ik.imagekit.io/hwked/tokyo/tr:h-1200/4.jpg"
       },
       {
-        "src": "assets/cities/5.jpg"
+        "src": "https://ik.imagekit.io/hwked/san-francisco/tr:h-1200/5.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/nyc/tr:h-1200/6.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/nyc/tr:h-1200/2.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/nyc/tr:h-1200/3.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/nyc/tr:h-1200/4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "animals",
+    "title": "Animals",
+    "photos": [
+      {
+        "src": "https://ik.imagekit.io/hwked/wildlife/tr:h-1200/1.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/wildlife/tr:h-1200/2.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/wildlife/tr:h-1200/3.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/wildlife/tr:h-1200/10.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/wildlife/tr:h-1200/11.jpg"
+      }
+    ]
+  },
+  {
+    "id": "random",
+    "title": "Random",
+    "photos": [
+      {
+        "src": "https://ik.imagekit.io/hwked/shops/tr:h-1200/12.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/shops/tr:h-1200/13.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/shops/tr:h-1200/14.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/shops/tr:h-1200/15.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/shutters/tr:h-1200/8.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/shutters/tr:h-1200/9.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/japan/tr:h-1200/10.jpg"
+      },
+      {
+        "src": "https://ik.imagekit.io/hwked/japan/tr:h-1200/11.jpg"
       }
     ]
   }

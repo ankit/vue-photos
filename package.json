@@ -1,6 +1,6 @@
 {
   "name": "vue-photos",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Minimal display for photo albums in Vue.js",
   "main": "dist/vue-photos.umd.js",
   "module": "dist/vue-photos.es.js",
